@@ -10,6 +10,9 @@
 #include <unistd.h>
 #include <time.h>
 
+#include "../../noise/protocol.h"
+
+
 struct client
 {
 	int sock;

@@ -12,7 +12,7 @@
 #ifndef __cxxtest__LinkedList_h__
 #define __cxxtest__LinkedList_h__
 
-#include <cxxtest/Flags.h>
+#include "Flags.h"
 
 namespace CxxTest
 {

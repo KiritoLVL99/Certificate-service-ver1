@@ -18,8 +18,8 @@
 // define CXXTEST_HAVE_STD
 //
 
-#include <cxxtest/ValueTraits.h>
-#include <cxxtest/StdHeaders.h>
+#include "ValueTraits.h"
+#include "StdHeaders.h"
 
 #ifdef _CXXTEST_OLD_STD
 #   define CXXTEST_STD(x) x

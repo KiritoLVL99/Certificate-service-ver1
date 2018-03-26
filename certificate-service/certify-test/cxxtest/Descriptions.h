@@ -17,7 +17,7 @@
 // hold information about tests so they can be run and reported.
 //
 
-#include <cxxtest/LinkedList.h>
+#include "LinkedList.h"
 
 namespace CxxTest
 {

@@ -18,8 +18,8 @@
 // but this way avoids cyclic references TestListener<->CountingListenerProxy
 //
 
-#include <cxxtest/TestListener.h>
-#include <cxxtest/DummyDescriptions.h>
+#include "TestListener.h"
+#include "DummyDescriptions.h"
 
 namespace CxxTest
 {

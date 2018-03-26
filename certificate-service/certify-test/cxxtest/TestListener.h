@@ -21,7 +21,7 @@
 // "unused parameter" warnings.
 //
 
-#include <cxxtest/Descriptions.h>
+#include "Descriptions.h"
 
 namespace CxxTest
 {

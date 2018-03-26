@@ -16,7 +16,7 @@
 // DummyTestDescription, DummySuiteDescription and DummyWorldDescription
 //
 
-#include <cxxtest/Descriptions.h>
+#include "Descriptions.h"
 
 namespace CxxTest
 {

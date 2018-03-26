@@ -18,11 +18,11 @@
 // member functions called void test*();
 //
 
-#include <cxxtest/Flags.h>
-#include <cxxtest/TestTracker.h>
-#include <cxxtest/Descriptions.h>
-#include <cxxtest/ValueTraits.h>
-#include <cxxtest/StdValueTraits.h>
+#include "Flags.h"
+#include "TestTracker.h"
+#include "Descriptions.h"
+#include "ValueTraits.h"
+#include "StdValueTraits.h"
 #include <sstream>
 #include <cstring>
 

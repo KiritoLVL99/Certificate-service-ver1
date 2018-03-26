@@ -21,7 +21,7 @@
 // ValueTraits<YourClass>.
 //
 
-#include <cxxtest/Flags.h>
+#include "Flags.h"
 
 #ifdef _CXXTEST_OLD_TEMPLATE_SYNTAX
 #   define CXXTEST_TEMPLATE_INSTANTIATION
